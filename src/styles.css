@@ -1,0 +1,40 @@
+.col {
+  height: 60px;
+  width: 60px;
+  font-size: 30px;
+  text-align: center;
+  vertical-align: middle;
+  font: helvetica;
+}
+
+.boardbutton {
+  height: 59px;
+  width: 59px;
+  text-align: center;
+  vertical-align: middle;
+}
+
+.dark-primary-color {
+  background: #0288d1;
+}
+.default-primary-color {
+  background: #03a9f4;
+}
+.light-primary-color {
+  background: #b3e5fc;
+}
+.text-primary-color {
+  color: #ffffff;
+}
+.accent-color {
+  background: #ffc107;
+}
+.primary-text-color {
+  color: #212121;
+}
+.secondary-text-color {
+  color: #757575;
+}
+.divider-color {
+  border-color: #bdbdbd;
+}
